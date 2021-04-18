@@ -11,7 +11,7 @@
 ## ⚙️ Project demonstration (demontração do projeto)
 Description: The algorithm uses Beautifulsoup (BS4) to search and get weather information on Google. Then, it presents this data on a Webpage (developed in Django).
 
-<p align="center"> <src="./assets/weather_app_in_action.gif" width="400px">
+<p align="center"> <img alt="weather_app_in_action.gif" title="weather_app_in_action.gif" src="./assets/weather_app_in_action.gif" width="400px">
 
 ---
 	
