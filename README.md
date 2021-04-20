@@ -32,8 +32,6 @@ Description: The algorithm uses Beautifulsoup (BS4) to search and get weather in
 
 ### 🎲 Requirements (requisitos)
 
-There is no recommendation to run the executable apps.
-
 To run the code, it is recommended to install the following Python Packaged:
 - asgiref==3.3.1
 - beautifulsoup4==4.9.3
