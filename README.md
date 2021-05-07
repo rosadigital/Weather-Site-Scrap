@@ -18,9 +18,8 @@ Description: The algorithm uses Beautifulsoup (BS4) to search and get weather in
 ## 💡 Knowledge acquired (conhecimentos adquiridos)
 
 - During this project, I learned:
-  - pending to be written;
-  - pending to be written; and
-  - pending to be written.
+  - basics of Django programming structure; and
+  - integrate BeautifulSoup (BS: to scrap data from website) with Django (to show the information on a website).
 
 ---
 
